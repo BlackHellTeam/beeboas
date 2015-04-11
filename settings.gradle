@@ -1,0 +1,1 @@
+include ':app', ':android-support-v7-appcompat-without-multi-lang', ':Beebo-MaterialEdittext', ':FloatActionButton-Eclipse', ':SeniorSDK'
